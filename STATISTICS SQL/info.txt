@@ -1,1 +1,17 @@
 
+
+
+# SQL Descriptive Statistics Toolkit
+
+Welcome to the SQL Descriptive Statistics Toolkit! This repository is crafted for data enthusiasts, analysts, and anyone curious about unveiling the story their data tells. Through the power of SQL, this toolkit allows you to perform comprehensive descriptive statistical analyses efficiently.
+
+📘 About Descriptive Statistics
+
+Descriptive statistics provide a way to summarize and describe the essential features of a dataset. They are crucial for:
+
+🚀 Understanding the central tendency (mean, median, mode).
+🚀 Assessing the variability (standard deviation, variance).
+🚀 Identifying extremes (min, max values).
+🚀 Understanding the correlation
+🚀 Percentiles and frequency
+🚀
