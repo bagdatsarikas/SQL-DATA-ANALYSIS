@@ -1,4 +1,4 @@
-# SQL-DATA-ANALYSIS
+# SQL-DATA-ANALYSIS-PROJECTS
 
  Data Analysis Learning Repository
 
